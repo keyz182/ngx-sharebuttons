@@ -1,0 +1,44 @@
+{
+  "name": "ngx-sharebuttons",
+  "version": "4.1.2",
+  "description": "Share buttons components for Angular and Ionic",
+  "keywords": [
+    "angular",
+    "sharebuttons",
+    "share",
+    "buttons",
+    "facebook",
+    "twitter",
+    "pinterest",
+    "tumblr",
+    "stumbleupon",
+    "googleplus",
+    "linkedin",
+    "reddit",
+    "telegram",
+    "vk",
+    "print",
+    "email"
+  ],
+  "author": {
+    "name": "Murhaf Sousli",
+    "url": "http://github.com/MurhafSousli"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MurhafSousli/ngx-sharebuttons.git"
+  },
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "http://github.com/MurhafSousli/ngx-sharebuttons/issues"
+  },
+  "homepage": "http://github.com/MurhafSousli/ngx-sharebuttons",
+  "main": "bundles/ngx-sharebuttons.umd.js",
+  "module": "ngx-sharebuttons.es5.js",
+  "es2015": "ngx-sharebuttons.js",
+  "typings": "ngx-sharebuttons.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.3.0",
+    "@angular/common": "^4.3.0"
+  }
+}
